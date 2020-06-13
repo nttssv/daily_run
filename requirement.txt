@@ -1,0 +1,7 @@
+pandas
+pandas-datareader
+ftplib
+io
+requests
+requests_html
+yahoo_fin
